@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\app",
+    "\\src\\components\\app-header",
+    "\\src\\components\\item-status-filter",
+    "\\src\\components\\search-panel",
+    "\\src\\components\\todo-list"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
